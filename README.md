@@ -15,6 +15,7 @@ This app was refactored from [a16z's implementation](https://github.com/a16z-inf
 ```
 streamlit
 replicate
+llama-cpp-python
 ```
 
 ## Getting your own Replicate API token
