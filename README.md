@@ -24,6 +24,9 @@ To use this app, you'll need to get your own [Replicate](https://replicate.com/)
 
 After signing up to Replicate, you can access your API token from [this page](https://replicate.com/account/api-tokens).
 
+## Check the app using your own replicate api key
+(https://llama2chatbot-2ws9rgtgropipjxffoq2tn.streamlit.app/)
+
 ## Other Llama 2 models to try
 
 As mentioned above, this chatbot implementation uses the [**Llama2-7B**](https://replicate.com/a16z-infra/llama7b-v2-chat) model that was trained on 7 billion parameters.
